@@ -1,0 +1,28 @@
+name: brandsquare
+favicon: null
+layout_spectrum: 0.46377284708432853
+typography_spectrum: 0.33684474788606167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16586285061202943
+  lightness: 0.6303773829713464
+  saturation: 0.8172315231058747
+  rhythmicContrast: 0.42364853410981596
+purpose: []
